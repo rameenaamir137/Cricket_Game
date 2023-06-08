@@ -21,7 +21,7 @@ This is a C++ program that simulates a cricket match game between two teams: "Yo
 **13.** The program will also calculate the Best Man of the match, independent of the winning or losing team.<br>
 # Program Structure
 
-The program will follow the following structure:
+The program will follow the following structure:<br>
 
 **Player class:** Represents a cricket player. It will have attributes such as player name, runs scored, and whether the player is currently playing or out.<br>
 **Team class:** Represents a team. It will have attributes such as team name, list of players, and total score.<br>
@@ -29,7 +29,7 @@ The program will follow the following structure:
 **Main function:** Initializes the game, creates teams and players, and starts the game by calling the appropriate methods from the Game class.<br>
 # Usage
 
-To run the program, follow these steps:
+To run the program, follow these steps:<br>
 **1.** Compile the C++ source code files.<br>
 **2.** Execute the compiled program.<br>
 **3.** Follow the on-screen instructions to play the game.<br>
